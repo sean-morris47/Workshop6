@@ -1,3 +1,6 @@
+//I read the workshop step telling us to copy and paste data from
+//the client database to here
+
 // Data goes here.
 var initialData = {
   // The "user" collection. Contains all of the users in our Facebook system.
